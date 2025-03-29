@@ -1,0 +1,2 @@
+[Fri, 07 Jul 2023 17:28:48] DEBUG [connectionpool.py._new_conn:244] Starting new HTTP connection (1): 10.0.1.18:6000
+[Fri, 07 Jul 2023 17:28:48] DEBUG [connectionpool.py._make_request:546] http://10.0.1.18:6000 "GET /socket.io/?transport=polling&EIO=4&t=1688731128.743044 HTTP/1.1" 200 97
